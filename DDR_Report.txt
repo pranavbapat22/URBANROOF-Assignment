@@ -1,0 +1,81 @@
+**Detailed Diagnostic Report (DDR)**
+
+1. Property Issue Summary
+
+The inspection and thermal analysis indicate widespread moisture-related issues across multiple areas of the property. Key concerns include dampness at skirting levels, water seepage, leakage in wet areas, and structural concerns such as external wall cracks and tile joint deterioration.
+
+2. Area-wise Observations
+
+Hall
+
+Dampness observed at skirting level
+Indicates possible water ingress from adjacent areas
+
+Bedrooms (Common & Master)
+
+Dampness and efflorescence on walls
+Tile hollowness observed in attached bathrooms
+
+Kitchen
+
+Skirting level dampness suggesting moisture seepage
+
+Common Bathroom
+
+Tile joint gaps and hollowness
+Plumbing leakage and moisture accumulation
+Ceiling dampness indicating vertical seepage
+
+Master Bathroom
+
+Tile joint deterioration and hollowness
+Possible waterproofing failure
+
+Parking Area
+
+Seepage observed in ceiling below flat
+Indicates leakage from upper floors
+
+External Wall
+
+Cracks observed near master bedroom area
+Possible water ingress from exterior
+
+(Images referenced in source documents. Where not extracted: Image Not Available)
+
+3. Probable Root Cause
+Leakage from concealed plumbing systems
+Damaged or improperly sealed tile joints
+Failure of waterproofing layers (bathrooms & external walls)
+External wall cracks allowing moisture penetration
+Inadequate drainage or water flow management
+
+4. Severity Assessment (with reasoning)
+High Severity
+Bathroom leakage and parking seepage
+(Reason: Active water flow affecting structural areas)
+Medium Severity
+Dampness in hall, bedrooms, and kitchen
+(Reason: Widespread moisture that may worsen over time)
+Low Severity
+Tile hollowness and joint gaps
+(Reason: Localized but can escalate if untreated)
+
+5. Recommended Actions
+Repair all plumbing leakages (priority)
+Re-seal and grout tile joints in bathrooms
+Apply waterproofing treatment in wet areas
+Repair cracks in external walls
+Improve ventilation in affected areas
+Conduct detailed waterproofing inspection if issues persist
+
+6. Additional Notes
+Thermal analysis shows temperature variation (~20°C–28°C), indicating moisture presence
+No prior structural audit or repair work reported
+Combined findings strongly suggest ongoing water ingress
+
+7. Missing or Unclear Information
+Exact source location of some leakages not confirmed
+Property age not specified
+Thermal image location mapping not clearly defined
+Some inspection images not extracted → Image Not Available
